@@ -12,11 +12,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devenshah2018@gmail.com)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-
-## 📊 Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=devenshah2018&theme=default&hide_border=false)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devenshah2018&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
