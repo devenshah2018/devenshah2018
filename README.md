@@ -1,6 +1,6 @@
 
 
-# 💫 About Me:
+# About Me
 🚀 Co-founder & Software Engineer with 5+ years of experience building AI-driven, scalable systems that solve complex problems.<br><br>💡 My work spans Python, TypeScript, C#, Salesforce, Azure, and PostgreSQL, with a focus on transforming innovation into impact through deep learning, data analytics, and full-stack web solutions.<br><br>🎓 Currently pursuing my M.S. in Computer Science at Boston University, where I’m exploring the intersection of AI and cybersecurity.<br><br>🌱 I’m passionate about pushing the needle forward, creating solutions that scale, adapt, and last.
 
 ## 🌐 Socials:
